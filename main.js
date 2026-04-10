@@ -1,0 +1,1 @@
+console.log("HappyDay H5 project is ready.");
